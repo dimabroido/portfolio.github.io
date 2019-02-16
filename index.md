@@ -6,7 +6,7 @@ ___
 ---
 ### About me
 ---
-
+I have no experience as a software engineer, I have worked at different organizations as economist or manager since 2007.
 
 
 ### Interests
