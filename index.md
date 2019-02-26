@@ -26,7 +26,7 @@ I have no experience as a software engineer, I have worked at different organiza
 - [x] [PadawansTask4](https://github.com/dimabroido/PadawansTask4)
 - [x] [PadawansTask5](https://github.com/dimabroido/PadawansTask5)
 - [x] [PadawansTask6](https://github.com/dimabroido/PadawansTask6)
-- [ ] [PadawansTask5](https://github.com/dimabroido/PadawansTask13)
+- [ ] [PadawansTask13](https://github.com/dimabroido/PadawansTask13)
 
 #### Codewars
-- [ ]
+- [x] [Codewars](https://www.codewars.com/users/dimabroido)
